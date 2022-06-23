@@ -1,0 +1,13 @@
+2ecfbba9001a5920ece22fc19dbd75a3 *DESCRIPTION
+f939e6dc325d8e5ed6ecd51d01dcc994 *NAMESPACE
+550604b41f2647b75485d9eeb8110451 *R/makePaletteCLARA.R
+1a2db7f014a9ac5266055ee98e0c2a6d *R/makePaletteKM.R
+230c928e85462055330200ce31f00d7a *R/msg.R
+14da66daa9d151351cdc1fa9bad39ba2 *inst/extdata/picture01.jpg
+3a809b0000af730e526e7b33d49e0cf1 *inst/extdata/picture02.jpg
+c26583c66f5cef3012108a9dfae140f1 *inst/extdata/picture03.jpg
+61be91f404566c32c40f83cf517656b8 *inst/extdata/picture04.png
+99f9864c640bed51a8f1a307f1f302a7 *inst/extdata/picture05.jpg
+e3c1154e107e0054a1fb8acdad275196 *inst/extdata/picture06.png
+f1444cfa759076ef4df1c5bc7532cd37 *man/makePaletteCLARA.Rd
+7c8007f7045f18669202d6a105330508 *man/makePaletteKM.Rd
